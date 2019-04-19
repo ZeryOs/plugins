@@ -13,6 +13,7 @@ __To add a new service:__
 [Read the documentation](/docs)
 
 ## Example Recipes
+* [Alegra](https://github.com/ZeryOs/franz-recipe-alegra)
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Android Messages](https://github.com/dweinber/franz-recipe-android-messages)
 * [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
@@ -30,6 +31,7 @@ __To add a new service:__
 * [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
+* [Monday.com](https://github.com/ZeryOs/franz-recipe-monday)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
 * [Proton Mail](https://github.com/lukas-reineke/franz-recipe-proton-mail)
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
